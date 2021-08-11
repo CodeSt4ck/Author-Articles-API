@@ -1,0 +1,56 @@
+.form-heading {
+    padding-top: 0px 10px 10px 10px;
+    margin-top: 50px;
+    color: #2d80a9;
+}
+
+.entrycol {
+    /* border: 1px solid rgb(189, 189, 189); */
+    margin-top: 40px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.author-form {
+    margin-top: 20px;
+}
+
+.form-button {
+    width: 100%;
+}
+
+.tagbox-span {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin-left: 5px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.cross {
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.cross:hover {
+    color: rgb(122, 120, 120);
+    cursor: pointer;
+}
+
+
+.tagbox-name {
+    text-decoration: none;
+    color: black;
+}
+
+.tagbox-name:hover {
+    text-decoration: none;
+    color: rgb(122, 120, 120);
+}
+
+.form-sub-heading {
+    margin-top: 20px;
+    font-weight: bold;
+}

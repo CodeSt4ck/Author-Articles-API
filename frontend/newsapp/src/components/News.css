@@ -1,0 +1,59 @@
+.source-heading {
+    margin-top: 20px;
+    font-size: 40px;
+    color: #2D80A9;
+}
+.source-heading-col {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.article-card{
+    border: 1px solid rgba(131, 131, 132, 0.49);
+    margin-bottom: 5px;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+.author-heading {
+    font-weight: bold !important;
+}
+
+.article-title {
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: none;
+}
+
+.article-title:hover {
+    text-decoration: none;
+}
+
+.scrollable{
+    overflow-y: auto;
+    max-height: 400px;
+    
+  }
+
+.article-time {
+    font-size: 0.7rem;
+    font-weight: 200;
+    line-height: 1.2;
+}
+
+.waiting {
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.card-margin {
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-loading {
+    position: fixed;
+    bottom: 0px;
+}
